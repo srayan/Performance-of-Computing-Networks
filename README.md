@@ -2,10 +2,14 @@
 Coding assignments for Performance of Computing Networks
 
 
-
-
-S[n+1] = (k * S[n]) MOD m The values of the variables are: S[0] = 1111 k = 16807 m = 2147483647 I have calculate 10000 values  S[0] to S[9999]
-
+# File --> MultiplicativeCongruential.py
+S[n+1] = (k * S[n]) MOD m 
+The values of the variables are: 
+S[0] = 1111 
+k = 16807 
+m = 2147483647 
+Calculate 10000 values  S[0] to S[9999]
+Calculating mean and variance of the formed pseudo-random number series
 
 
 
